@@ -1,4 +1,4 @@
-# You solution goes heredigit_1 = int(input())
+digit_1 = int(input())
 digit_2 = int(input())
 digit_3 = int(input())
 digit_4 = int(input())
